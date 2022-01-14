@@ -17,3 +17,8 @@ The user can add a new item specifying:
 
 An additional functionality I have added is that we can export all the data as a csv file which will be downloaded in your browser. The idea for this was to make it 
 easier to obtain all the data, having it all nicely formatted in order to feed into data science pipelines and workflows.
+
+**NOTE: the following Python packages will need to be installed in order for the application to run:**
+- pandas
+- flask
+- flask_sqlalchemy
