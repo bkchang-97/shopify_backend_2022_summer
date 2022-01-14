@@ -1,0 +1,10 @@
+.jumbotron.p-3 {
+    display: flex;
+    flex-direction: column;
+}
+
+#export-button {
+    background-color: #0062cc;
+    border-color: #0062cc;
+    color: white;
+}
