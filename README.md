@@ -1,4 +1,4 @@
-# Shopfiy Summer 2022 Backend Challence
+# Shopfiy Summer 2022 Backend Challenge
 ## By: Benjamin Chang
 
 This is my inventory tracking web application I have created for the challenge. I used a combination of Python + Flask to create the application, as well as bootstrap 
